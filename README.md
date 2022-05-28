@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 <table>
     <tr>
-        <td width="50%">
+        <td width="60%">
             - 🤓&ensp;Passionate about DevOps and Data Science. <br>
             - 💻&ensp;I'm currently working with GCP, SQL, Google Docs... <br>
             - 🌱&ensp;I'm currently learning Python, Javascript<br>
             - 📫&ensp;Contact : <a href="mailto:imtaherul@gmail.com">imtaherul@gmail.com</a>.
         </td>
-        <td width="35%">
+        <td width="25%">
             <div align="center">
                 <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/google-docs.svg" />
                 <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/sql-datawarehouse.svg" />
