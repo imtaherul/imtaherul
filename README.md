@@ -27,19 +27,19 @@ Here are some ideas to get you started:
         </td>
         <td width="25%">
             <div align="center">
-                <img width="60" src="https://github.com/imtaherul/imtaherul/blob/main/google-docs.svg" />
-                <img width="60" src="https://github.com/imtaherul/imtaherul/blob/main/sql-datawarehouse.svg" />
-                <img width="60" src="https://github.com/imtaherul/imtaherul/blob/main/github.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/google-docs.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/sql-datawarehouse.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/github.svg" />
             </div>
             <div align="center">
-                <img width="60" src="https://github.com/imtaherul/imtaherul/blob/main/python-vertical.svg" />
-                <img width="60" src="https://github.com/imtaherul/imtaherul/blob/main/docker-tile.svg" />
-                <img width="60" src="https://github.com/imtaherul/imtaherul/blob/main/google-cloud-composer.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/python-vertical.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/docker-tile.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/google-cloud-composer.svg" />
             </div>
             <div align="center">
-                <img width="60" src="https://github.com/imtaherul/imtaherul/blob/main/javascript.svg" />
-                <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-                <img width="60" src="https://github.com/imtaherul/imtaherul/blob/main/nodejs-seeklogo.com.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/javascript.svg" />
+                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/nodejs-seeklogo.com.svg" />
             </div>
         </td>
         <td width="15%">
