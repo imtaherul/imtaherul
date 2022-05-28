@@ -45,7 +45,7 @@ Here are some ideas to get you started:
         </td>
         <td width="10%">
             <div align="center">
-                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/6f7eb8133c26295a21938b7d8f6b71973e6190fd/bigquery-icon.svg" />
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
             </div>
