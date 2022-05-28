@@ -27,27 +27,26 @@ Here are some ideas to get you started:
         </td>
         <td width="25%">
             <div align="center">
-                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/google-docs.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/sql-datawarehouse.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/github.svg" />
             </div>
             <div align="center">
-                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/python-vertical.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/docker-tile.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/google-cloud-composer.svg" />
             </div>
             <div align="center">
-                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/javascript.svg" />
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-                <img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/nodejs.svg" />
             </div>
         </td>
         <td width="10%">
             <div align="center">
                 <img width="40" src="https://github.com/imtaherul/imtaherul/blob/6f7eb8133c26295a21938b7d8f6b71973e6190fd/bigquery-icon.svg" />
-                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/google-cloud-sql.svg" />
+                <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/google-cloud-platform.svg" />
             </div>
         </td>
     </tr>
