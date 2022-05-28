@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 <table>
     <tr>
-        <td width="65%">
+        <td width="50%">
             - 🤓&ensp;Passionate about DevOps and Data Science. <br>
             - 💻&ensp;I'm currently working with GCP, SQL, Google Docs... <br>
             - 🌱&ensp;I'm currently learning Python, Javascript<br>
-            - 📫&ensp;Contate-me pelo email: <a href="mailto:imtaherul@gmail.com">imtaherul@gmail.com</a>.
+            - 📫&ensp;Contact : <a href="mailto:imtaherul@gmail.com">imtaherul@gmail.com</a>.
         </td>
-        <td width="25%">
+        <td width="35%">
             <div align="center">
                 <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/google-docs.svg" />
                 <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/sql-datawarehouse.svg" />
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
                 <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/nodejs.svg" />
             </div>
         </td>
-        <td width="10%">
+        <td width="15%">
             <div align="center">
                 <img width="40" src="https://github.com/imtaherul/imtaherul/blob/6f7eb8133c26295a21938b7d8f6b71973e6190fd/bigquery-icon.svg" />
                 <img width="40" src="https://github.com/imtaherul/imtaherul/blob/main/google-cloud-sql.svg" />
