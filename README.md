@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td width="60%">
-            - 🤓&ensp;Passionate about DevOps and Data Science. <br>
+            - 🤓&ensp;A passionate Bi Developer and Data analyst. <br>
             - 💻&ensp;I'm currently working with GCP, SQL, Google Docs... <br>
             - 🌱&ensp;I'm currently learning Python, Javascript<br>
             - 📫&ensp;Contact : <a href="mailto:imtaherul@gmail.com">imtaherul@gmail.com</a>.
