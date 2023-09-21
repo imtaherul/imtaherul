@@ -81,6 +81,12 @@ Here are some ideas to get you started:
               <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtaherul&layout=compact&theme=tokyonight" />
             </a>
         </td>
+        <td>
+         [![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imtaherul&layout=compact&theme=onedark)](https://github.com/imtaherul/github-readme-stats)
+        </td>
+        <td>
+        [![My github trophy](https://github-profile-trophy.vercel.app/?username=imtaherul&theme=onedark&&rank=SSS,SS,S,AAA,AA,A,B)]([https://github.com/imtaherul/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=imtaherul&theme=onedark&&rank=SSS,SS,S,AAA,AA,A,B))
+        </td>
     </tr> 
 </table>
 
