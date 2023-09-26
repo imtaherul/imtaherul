@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td>
-            <a href="https://github.com/anuraghazra/convoychat">
+            <a href="#">
               <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtaherul&layout=compact&theme=tokyonight" />
             </a>
         </td>
@@ -81,8 +81,8 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td>
-            <a href="https://github.com/anuraghazra/convoychat">
-              <img align="center" src="https://github-profile-trophy.vercel.app/?username=imtaherul&theme=onedark&&rank=SSS,SS,S,AAA,AA,A,B,C" />
+            <a href="#">
+              <img align="center" src="https://github-profile-trophy.vercel.app/?username=imtaherul&theme=onedark" />
             </a>
         </td>
     </tr> 
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
+            <a href="#">
               <img align="center" src="https://github-readme-stats.vercel.app/api?username=imtaherul&show_icons=true&theme=tokyonight" />
             </a>
         </td>
