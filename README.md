@@ -21,8 +21,7 @@ Here are some ideas to get you started:
     <tr>
         <td width="60%">
             - 🤓&ensp;A passionate Bi Developer and Data analyst. <br>
-            - 💻&ensp;I'm currently working with GCP, SQL, Google Docs... <br>
-            - 🌱&ensp;I'm currently learning Python, Javascript<br>
+            - 💻&ensp;I'm currently working with Python, Javascript, GCP, SQL, Google Docs... <br>
             - 📫&ensp;Contact : <a href="mailto:imtaherul@gmail.com">imtaherul@gmail.com</a>.
         </td>
         <td width="25%">
